@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chase\\source\\repos\\Abstract Layer\\Abstract Layer.csproj",
+      "projectUniqueName": "C:\\Users\\chase\\Source\\Repos\\ChatGPT-Bot-Abstract-Layer\\Abstract Layer.csproj",
       "projectName": "Abstract Layer",
-      "projectPath": "C:\\Users\\chase\\source\\repos\\Abstract Layer\\Abstract Layer.csproj",
+      "projectPath": "C:\\Users\\chase\\Source\\Repos\\ChatGPT-Bot-Abstract-Layer\\Abstract Layer.csproj",
       "packagesPath": "C:\\Users\\chase\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chase\\source\\repos\\Abstract Layer\\obj\\",
+      "outputPath": "C:\\Users\\chase\\Source\\Repos\\ChatGPT-Bot-Abstract-Layer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chase\\AppData\\Roaming\\NuGet\\NuGet.Config",
